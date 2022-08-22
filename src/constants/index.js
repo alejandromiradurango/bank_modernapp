@@ -90,7 +90,7 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Usefull Links",
     links: [
       {
         name: "Content",
@@ -180,18 +180,22 @@ export const socialMedia = [
 export const clients = [
   {
     id: "client-1",
+    name:"AirBNB",
     logo: airbnb,
   },
   {
     id: "client-2",
+    name:"Binance",
     logo: binance,
   },
   {
     id: "client-3",
+    name:"Coinbase",
     logo: coinbase,
   },
   {
     id: "client-4",
+    name:"DropBox",
     logo: dropbox,
   },
 ];
